@@ -16,6 +16,8 @@
 Результат:
 ![image](https://github.com/Mostovik71/DLFRAMEHW2/assets/56130198/e562e6ab-1fd2-431e-b8db-2490f34e602f)
 
+4) data-labeling - разметка выбранных диалогов моделью.
+
 ## Задача 2. Streamlit
 1) Код для задания 2.1 и датасет находятся в папке Task2/2.1/
 
