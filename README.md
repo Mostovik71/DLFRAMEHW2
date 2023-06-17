@@ -4,7 +4,7 @@
 1) HW1_1(Data preparing + plot example) - предобработка датасета + пример работы с моделью.
 
 Результат:
-![image](https://github.com/Mostovik71/DLFRAMEHW2/assets/56130198/07efd98e-2437-4d22-b6bb-c1735c596f46)
+![image](https://github.com/Mostovik71/DLFRAMEHW2/assets/56130198/b2bb45ad-21c0-4edb-a76e-adbbf29def4b)
 
 2) HW1_2(RayServe) - соединение RayServe и gradio.
 
